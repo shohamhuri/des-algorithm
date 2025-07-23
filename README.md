@@ -1,4 +1,3 @@
-בהחלט! הנה תוכן מלא של קובץ `README.md` שתוכלי להעתיק ולהדביק לרפוזיטורי שלך:
 # python-des
 
 Manual implementation of the DES encryption algorithm in Python, including both encryption and decryption.
